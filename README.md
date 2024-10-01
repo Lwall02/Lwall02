@@ -1,6 +1,6 @@
 ### Welcome to Liam Wall's repositories...
 
-I am Applied Mathematics Specialist at the University of Toronto. I love to work with math and statistics to solve nay problem. In particular I am passionate about the applications that high-level thinking combined with a strong background in mathematics can bring to the future of AI and machine learning.
+I am Applied Mathematics Specialist at the University of Toronto. I love to work with math and statistics to solve any problem you can throw at me. In particular I am passionate about the applications that high-level thinking combined with a strong background in mathematics can bring to the future of AI and machine learning.
 
 - 🔭 I’m currently working on creating a predictive model for the upcoming US election.
 - 🌱 I’m currently learning and taking courses on machine learning with a focus in the statistical methods behind how and why machine learning methods work.
