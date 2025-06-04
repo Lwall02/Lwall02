@@ -1,10 +1,10 @@
 ### Welcome to Liam Wall's repositories...
 
-I am Applied Mathematics Specialist at the University of Toronto. I love to work with math and statistics to solve any problem you can throw at me. In particular I am passionate about the applications that high-level thinking combined with a strong background in mathematics can bring to the future of AI and machine learning.
+I am an Applied Mathematics Specialist at the University of Toronto. I love to work with math and statistics to solve any problem you can throw at me. In particular I am passionate about the applications that high-level thinking combined with a strong background in mathematics can bring to the future of AI and machine learning.
 
-- 🔭 I’m currently working on creating a predictive model for cancer type classification based on gene expression data.
-- 🌱 I’m currently learning and taking courses on machine learning with a focus in the statistical methods behind how and why machine learning methods work.
-- 👯 I’m looking to collaborate and work on projects regarding data analytics and machine learning in the industry. I want experience outside of school focused projects.
+- 🔭 I’m currently working on creating a predictive time series model for global CO2 emissions.
+- 🌱 I’m currently learning and taking courses on machine learning and the mathematical theory in finance.
+- 👯 I’m looking to collaborate and work on projects regarding data analytics and machine learning. I want experience outside of school focused projects.
 - 📫 How to reach me: Find me @liamwall33@gmail.com
 - ⚡ Fun fact: I hold triple citizenship to the US, Canada, and Ireland!
 
