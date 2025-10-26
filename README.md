@@ -4,8 +4,8 @@ Driven recent graduate with a drive to leverage models in the real world. Passio
 
 - 🔭 I’m currently working on growing a personal investment portfolio.
 - 🌱 I’m independently learning and taking courses on machine learning and the mathematical theory in finance.
-- 👯 I’m looking to collaborate and work on projects regarding data analytics and machine learning
-- 📫 How to reach me: Find me @liamwall33@gmail.com
+- 👯 I’m looking to collaborate and work on projects regarding data analytics and machine learning.
+- 📫 How to reach me: @liamwall33@gmail.com.
 
 <!--
 **Lwall02/Lwall02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
