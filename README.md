@@ -1,12 +1,11 @@
 ### Welcome to Liam Wall's repositories...
 
-I am an Applied Mathematics Specialist at the University of Toronto. I love to work with math and statistics to solve any problem you can throw at me. In particular I am passionate about the applications that high-level thinking combined with a strong background in mathematics can bring to the future of AI and machine learning.
+Driven recent graduate with a drive to leverage models in the real world. Passion for solving complex problems through statistical and analytic methods using a deep background in mathematics and statistics. Have developed research papers with a focus on using well-defined models and effective communication skills to present insights, analysis, and findings. Experience and proven skills using Python and R for staDstical analysis, modeling, and developing professional research papers in economic, biomedical, and data analytics settings.
 
-- 🔭 I’m currently working on creating a predictive time series model for global CO2 emissions.
-- 🌱 I’m currently learning and taking courses on machine learning and the mathematical theory in finance.
-- 👯 I’m looking to collaborate and work on projects regarding data analytics and machine learning. I want experience outside of school focused projects.
+- 🔭 I’m currently working on growing a personal investment portfolio.
+- 🌱 I’m independently learning and taking courses on machine learning and the mathematical theory in finance.
+- 👯 I’m looking to collaborate and work on projects regarding data analytics and machine learning
 - 📫 How to reach me: Find me @liamwall33@gmail.com
-- ⚡ Fun fact: I hold triple citizenship to the US, Canada, and Ireland!
 
 <!--
 **Lwall02/Lwall02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
