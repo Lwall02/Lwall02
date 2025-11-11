@@ -1,5 +1,5 @@
 ### Liam Wall — Data Science & Applied Statistics  
-> *“Turning data into insight through statistical modeling and machine learning.”*
+> *Turning data into insight through statistical modeling and machine learning.*
 
 Recent mathematics and statistics graduate with a strong foundation in quantitative modeling and applied data analysis. Experienced in developing and interpreting statistical and machine learning models across economic, biomedical, and analytical domains. Skilled in Python and R for data preparation, modeling, and visualization, with a focus on building interpretable models and communicating insights effectively.
 
